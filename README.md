@@ -1,3 +1,3 @@
 # M-amour-Energy-Forecasting
 Electrical load forecasting
-Renewable enrgy forecasting
+Renewable energy forecasting
